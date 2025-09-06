@@ -86,12 +86,9 @@ INSTRUCTIONS:
 	  - PhotoPose
    - This is used for the broken Ness robot after defeating Giygas. The other characters use generic sprites which cannot be modified individually.
       - BrokenBot
-	-------
-	This is used for characters lying down. In the AP randomizer, this sprite is used if a main character is on the Snow Wood - Bedroom character location
-        LieDown
-	-------
-	This is used on the naming screen and/or some cutscenes.
-        Surprised
-	-------
-	This is used when Poo meditates for the Trial of Mu, as well as on the naming screen.
-		Meditate
+   - This is used for characters lying down. In the AP randomizer, this sprite is used if a main character is on the Snow Wood - Bedroom character location
+      - LieDown
+   - This is used on the naming screen and/or some cutscenes.
+       - Surprised
+   - This is used when Poo meditates for the Trial of Mu, as well as on the naming screen.
+	   - Meditate
