@@ -33,12 +33,12 @@ INSTRUCTIONS:
  - Main:
 	---------
 	These are the standard sprites for the selected character.
-		MainDown
-		MainDown
-		MainDownWalkFrame
-		MainUp
-		MainSide
-		MainSideWalk
+		- MainDown
+		- MainDown
+		- MainDownWalkFrame
+		- MainUp
+		- MainSide
+		- MainSideWalk
 		MainUpSide
 		MainUpSideWalk
 		MainDownSide
