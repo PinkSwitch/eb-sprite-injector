@@ -30,7 +30,7 @@ INSTRUCTIONS:
 
 
 ---- FILE GUIDE ----
- Main:
+ - Main:
 	---------
 	These are the standard sprites for the selected character.
 		MainDown
