@@ -60,35 +60,32 @@ INSTRUCTIONS:
 	 - ClimbRope
 	 - ClimbRopeFrame
    - These are used for when Ness rides the Bicycle, bike included.
-	-BikeUp
-	- BikeSide
-	- BikeSidePedal
-	- BikeDown
-	- BikeUpSide
-	- BikeUpSidePedal
-	- BikeDownSide
-	- BikeDownSidePedal
+	 -BikeUp
+	 - BikeSide
+	 - BikeSidePedal
+	 - BikeDown
+	 - BikeUpSide
+	 - BikeUpSidePedal
+	 - BikeDownSide
+	 - BikeDownSidePedal
    - These are used in the Lost Underworld.
 	 - TinyDown
 	 - TinySide
 	 - TinySideWalk
-	-------
-	These are used by Ness while wearing pajamas. Note that in the AP randomizer, these are only used while Ness is present in Magicant.
-        PajamaUp
-        PajamaSide
-        PajamaSideWalk
-        PajamaDown
-        PajamaWalkFrame
-        PajamaUpSide
-        PajamaUpSideWalk
-        PajamaDownSide
-        PajamaDownSideWalk
-	-------
-	This is used whenever Ness is present during a Photograph.
-        PhotoPose
-	-------
-	This is used for the broken Ness robot after defeating Giygas. The other characters use generic sprites which cannot be modified individually.
-        BrokenBot
+   - These are used by Ness while wearing pajamas. Note that in the AP randomizer, these are only used while Ness is present in Magicant.
+	 - PajamaUp
+	 - PajamaSide
+	 - PajamaSideWalk
+	 - PajamaDown
+	 - PajamaWalkFrame
+	 - PajamaUpSide
+	 - PajamaUpSideWalk
+	 - PajamaDownSide
+	 - PajamaDownSideWalk
+   - This is used whenever Ness is present during a Photograph.
+	  - PhotoPose
+   - This is used for the broken Ness robot after defeating Giygas. The other characters use generic sprites which cannot be modified individually.
+      - BrokenBot
 	-------
 	This is used for characters lying down. In the AP randomizer, this sprite is used if a main character is on the Snow Wood - Bedroom character location
         LieDown
