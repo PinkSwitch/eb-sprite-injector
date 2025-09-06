@@ -30,44 +30,35 @@ INSTRUCTIONS:
 
 
 ---- FILE GUIDE ----
- - Main:
-	---------
-	These are the standard sprites for the selected character.
-		-- MainDown
-		- MainUp
-		- MainSide
-		- MainSideWalk
-		MainUpSide
-		MainUpSideWalk
-		MainDownSide
-		MainDownSideWalk
-	--------
-	This is only used by Ness as a downwards walking sprite. Other characters use a mirror of MainDown.
-		MainDownWalkFrame
-	--------
-	These are the unique robot sprites used by Ness in the Cave of the Past.
-	Other characters use a generic sprite which cannot be modified individually.
-		MainDownBot
-        MainDownWalkFrameBot
-        MainUpBot
-        MainSideBot
-        MainSideWalkBot
-        MainUpSideBot
-        MainUpSideWalkBot
-        MainDownSideBot
-        MainDownSideWalkBot
-	--------
-	These are the ghost sprites used when the character is dead.
-		GhostDown
-        GhostUp
-        GhostSide
-	--------
-	This is used and mirrored wile climbing ladders.
-		ClimbLadder
-	-------
-	These are used alternatingly while climbing ropes.
-		ClimbRope
-        ClimbRopeFrame
+- **Main:**
+  - These are the standard sprites for the selected character:
+    - MainDown  
+    - MainUp  
+    - MainSide  
+    - MainSideWalk  
+    - MainUpSide  
+    - MainUpSideWalk  
+    - MainDownSide  
+    - MainDownSideWalk
+  - This is only used by Ness as a downwards walking sprite. Other characters use a mirror of MainDown:
+    - MainDownWalkFrame
+  - These are the unique robot sprites used by Ness in the Cave of the Past. Other characters use a generic sprite which cannot be modified individually:
+    - MainDownBot  
+    - MainDownWalkFrameBot  
+    - MainUpBot
+	- MainSideBot
+	- MainSideWalkBot
+	- MainDownSideBot
+	- MainDownSideWalkBot
+  - These are the ghost sprites used when the character is dead.
+	- GhostDown
+	- GhostUp
+	- GhostSide
+   - This is used and mirrored wile climbing ladders.
+	 - ClimbLadder
+   - These are used alternatingly while climbing ropes.
+	- ClimbRope
+	- ClimbRopeFrame
 	-------
 	These are used for when Ness rides the Bicycle, bike included.
         BikeUp
