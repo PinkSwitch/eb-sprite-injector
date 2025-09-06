@@ -57,23 +57,21 @@ INSTRUCTIONS:
    - This is used and mirrored wile climbing ladders.
 	 - ClimbLadder
    - These are used alternatingly while climbing ropes.
-	- ClimbRope
-	- ClimbRopeFrame
-	-------
-	These are used for when Ness rides the Bicycle, bike included.
-        BikeUp
-        BikeSide
-        BikeSidePedal
-        BikeDown
-        BikeUpSide
-        BikeUpSidePedal
-        BikeDownSide
-        BikeDownSidePedal
-	-------
-	These are used in the Lost Underworld.
-		TinyDown
-		TinySide
-		TinySideWalk
+	 - ClimbRope
+	 - ClimbRopeFrame
+   - These are used for when Ness rides the Bicycle, bike included.
+	-BikeUp
+	- BikeSide
+	- BikeSidePedal
+	- BikeDown
+	- BikeUpSide
+	- BikeUpSidePedal
+	- BikeDownSide
+	- BikeDownSidePedal
+   - These are used in the Lost Underworld.
+	 - TinyDown
+	 - TinySide
+	 - TinySideWalk
 	-------
 	These are used by Ness while wearing pajamas. Note that in the AP randomizer, these are only used while Ness is present in Magicant.
         PajamaUp
